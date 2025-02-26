@@ -10,3 +10,4 @@ In the EASY directory has three parts with
                                         - spacebar - clear screen
                                         - s - to save as image
                                         
+file:///C:/Users/silvy/Videos/Screen%20Recordings/Screen%20Recording%202025-02-26%20125026.mp4
