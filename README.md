@@ -6,7 +6,16 @@ I f you are using Vscode setup a virtual environment and using the command palle
 In the EASY directory has three parts with 
        - partA.py - creating a circle when left clicked and as the click is held for longer time size gets bigger.
        -partB.py- path creation and displaying the total distance
-      -partC.py - cleanup implementation -right click to delete the last created circle 
+     
+      
+      
+
+
+
+
+
+
+partC.py - cleanup implementation -right click to delete the last created circle 
                                         - spacebar - clear screen
                                         - s - to save as image
                                         
